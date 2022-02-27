@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The forerunners work set forth by motive motion; commanded by God</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84709</idno>
+            <idno type="STC">Wing F1555A</idno>
+            <idno type="STC">ESTC R226219</idno>
+            <idno type="EEBO-CITATION">99896146</idno>
+            <idno type="PROQUEST">99896146</idno>
+            <idno type="VID">153947</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84709)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153947)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2391:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The forerunners work set forth by motive motion; commanded by God</title>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, MDCLII. [1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴ B² .</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153947:1" rendition="simple:additions"/>
+            <p>The Forerunners Work Set forth by MOTIVE MOTION; Commanded by God.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, MDCLII.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:153947:2"/>
+            <head>The EPISTLE To the READER: Shewing from whence the Glory doth Break forth.</head>
+            <p>
+               <hi>RUma Emula,</hi> his work forerunning; ſprung forth from the uncreated Perſeverance, iſſued forth from the Bridegroom's Glory and to be eſtabliſhed in the heart and body of the earth; given out of the hands of Excellent Beauty, to the forewarning thoſe, and the a<g ref="char:EOLhyphen"/>dorning them, the Lamb's innocent Bride in the pureneſs of love, expreſt in the lettle ſcope, and the great deſolation made known in this worke forerunning.</p>
+            <p>Remember theſe words <hi>Mat. 25.42, 43. I was an hungry, and ye gave me no meat; I was a thirſty, and ye gave me no drink; I was a ſtranger, and ye took me not in; naked, and ye clothed me not; ſick, and in priſon, and ye viſited me not.</hi> The end of the Epiſtle.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153947:2"/>
+            <head>The FORERUNNERS <hi>WORKE.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Rite mine O mine ſaith the Lord, come up unto me; But what mine? Why mine <hi>Iſrael</hi> in whom there is no gu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>; mine oxen, my heifers, my ſheep, and my lambs; O mine (ſaith the Lord) come up unto me. Son of man, Call aloud, ſpeak, ut<g ref="char:EOLhyphen"/>ter thy voice, and let the children hear <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y words, which I alſo I will put into thy mouth, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y on this wiſe; I am God, the firſt and the laſt, and there is none beſide my ſelf; I come, and who ſhall withſtand me? and call, and who ſhall not be afraid? I anſwer, and who ſhall not tremble? I the Lord alſo will do this, and ſhall not the Nations be afraid before me? yea they ſhall alſo be afraid and tremble, when but one glimpſe of my glory doth break forth into this garden or earth. But now li<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>le children Hear the word of the Lord, and be comforted by him for in him muſt your comfort reſt; unto you little children do I ſpeak, babes and ſuck<g ref="char:EOLhyphen"/>lings, the lambs of my flock, that play upon my hill, that eat in my vallies, and that reſt in my boſome: To theſe, O Son of man, ſpeak on this wiſe and ſay; I will clothe you like the Lillies of the Valley, I will dreſs you in or<g ref="char:EOLhyphen"/>naments fit, and make you become beautiful; for you are the wife of my youth, the children in whom my ſoul de<g ref="char:EOLhyphen"/>lighteth,
+<pb facs="tcp:153947:3"/>Moreover, ſay on this wiſe; the Goſpel ſhall be preached in your land, the dry pools ſhall become ſprings of water, and the deſolate land ſhall be inhabited: Alſo I come, I come (ſaith the Lord) to plead the innocent's cauſe, and to revenge me of mine Adverſaries; I come as a Judge, judging the earth, and to plead your cauſes, you little children; for I have heard your oppreſſions, and they cannot ſtand before me: Alſo I come to ſeparate between the good and the bad, and between the juſt and the unjuſt: and I will make a full ſeparation, inſomuch that it ſhall not be joyned together again. Hallow thy ſelf in duſt and aſhes, for I am a coming to deſtroy the ſeed of the wick<g ref="char:EOLhyphen"/>ed, that the righteous may the more increaſe; For in thoſe days you (little children) ſhall no more need the Sun by day, nor the Moon by night; for my glory ſhall be an everlaſting light to you for ever; it ſhall be a light to your ſteps, and a lanthorn to your paths, leſt you ſhould ſlip or fall aſide: Moreover<g ref="char:punc">▪</g> by the right hand of my Righteouſ<g ref="char:EOLhyphen"/>neſs will I hold you up, leſt you ſtumble in the way: In the greatneſs of my ſtrength, and in the fulneſs of my might will I affectionately affect you, and greatly ſet my love on you for ever. Ho, come, I call, be prepared, for the ſupper of the great God is at hand: You little children come along, I will lead you, the ſupper is prepared, and all things are ready; Therefore O <hi>Iſrael,</hi> come along; if thou meaneſt to be married make haſte, delay not: Let thy Jamps be filled full with oyl, that they may endure the ſea<g ref="char:EOLhyphen"/>ſon they are to ſtand. My word is gone forth, and it ſhall not come back void; my Meſſengers are wandred in the world, and they ſhall not return empty; I have given them a promiſe, and it ſhall be fulfilled; they ſhall feed of my dainties, and eat at my Table; and I will be their God, and they ſhall know they are my people: I will call them out by one name, I will lead them out by one power, and I will guide them by my outſtretched arm from the evil oppoſers, and the ſelf willed contradicters. My people,
+<pb facs="tcp:153947:3"/>all you that hear my word, harken, I come in haſte, I ſtay not, for my work is haſtning, and ſuddenly to be done; therefore wait, watch, leſt that come upon you you look not for: for when I am not thought on, then will I come, and then ſhall my glory be ſeen. Hell ſhall give up that which is in her, Death ſhall tremble, and be in fearful Agony, the Vail of the Temple ſhall be rent from the top to the bottom, and the graves ſhall give up the dead that is in them, and great darkneſs ſhall fall upon all the earth; in the moſt ſecurity, the greateſt trouble; and in the moſt ſafety, the greateſt miſery. Here I declare to you, and tell you, O ye little children, what I mean to do; but why? becauſe my affection is greatly towards you, and my love ſhall not part from you. Ho, come, I call the ſecond time for you my little children, for my delight is in you, and my ſould delighteth to play with you, even as one childe playeth with another, but yet in ſpirit. Ho, come, I call the third time for you my children to come and play upon my breſts, for they are like mountains for my little lambs to dance upon; my knees are like little hills for my young ones to reſt on; and my armes are as a delightſom Valley ſet with Willows, for thoſe that are great with young to reſt and ſhade under. Ho, come, I call the fourth time, that you may come and harken to my words; Here do I provide for you all, both for old and young, for little and great, and all that will come to my ſupper. Alſo I call the fift time, that you may come and take notice of my Son, for he is beautiful, his garments are coloured with treading the Wine-fat, and are become red with the blood of the grapes; for he treadeth the winepreſs of the fierce<g ref="char:EOLhyphen"/>neſs and wrath of Almighty God, and his fury is gone forth upon his Adverſaries. Ho, come, I call the ſixth time to you my lambs, that you ſhould look upon the ho<g ref="char:EOLhyphen"/>ly Ghoſt, take notice of him, view him, and behold the inamoured beauty that lieth in him; view alſo his works, and his ways, that you alſo may do the like; for even the
+<pb facs="tcp:153947:4"/>power, and the ſtrength, and glory that abideth in him, ſhall reſt on you. Ho come, I call to you my little flock ſaying, every one that is a thirſty, let him come and drink; and every one that is an hungry, let him come and be filled; alſo come and buy wine and milk without mo<g ref="char:EOLhyphen"/>ney or without price: O children, I ſtrive not for gain, neither do I labour to get treaſure; but come and taſte of my delights freely, and the delights of my ſoul without price and without money. <hi>Jacob</hi> my Sirname, and <hi>Iſrael</hi> my beloved the fruit of my wombe, the people in whom my ſoul delighteth; thou that art the firſt labour of my hands: remember how my love hath been towards thee, do not ferget leſt I alſo forget thee; but be mindful of the glory that I have endowed thee withal; and I alſo in the time of trouble will be mindful of thee. Once more my little ones I call unto you ſaying. Come and ſuck of my breſts and there you ſhall be filled full, never being empty again; come to my ſtorehouſe, and be clothed with that white rayment that ſhall never wear out nor wax old. Come, and I will put chains about your necks, and brace<g ref="char:EOLhyphen"/>lets about your hands; alſo I will put ear rings in your ears and adorn you fit for the Bridegroom, that you may be joyned together, and become one, and in one never to be parted aſunder.</p>
+            <p>
+               <hi>Harken to the Speech of the Lord, or Propheſie, which new is to be laid open to the world.</hi>
+            </p>
+            <p>O howl ye Prieſts of <hi>Baal,</hi> for now my God is a com<g ref="char:EOLhyphen"/>ing to confound you, O you that oppreſs the poor, that ſqueeze the needy, and that ſtrive to get gain to your ſelves; your wiſdom ſhall be turned to fooliſhneſs, and the ſtaft of your ſtrength ſhall be broken; for you take the glory of God to your ſelves and the cry of the wronged is come up into his ears; you ſhall be daſht to pieces with your own conceits and ground to powder with your reaſon; for the judgement of the Lord will be heavie up<g ref="char:EOLhyphen"/>on you and Juſtice will run down your ſtreets as a migh<g ref="char:EOLhyphen"/>ty
+<pb facs="tcp:153947:4"/>ſtream, and great deſolation will ſeize upon you, and deſtruction will overtake you: And unto you, O ye lofty Cedars, You ſhall be cut down, and lopt low, even to the ground; your Wiſdom ſhall be even as <hi>Achitophel</hi>'s and your plots and your enterpriſes ſhall be brought to nought, and you even ſhal be burnt up as ſtubble with a conſuming fire; becauſe ye have put in priſon the Prophets, and ſto<g ref="char:EOLhyphen"/>ned them; alſo ye count the word of the Lord to be mad<g ref="char:EOLhyphen"/>neſs, and tranſgreſs his holy Name; Therefore, as I live ſaith the Lord, I will not have pity, nor ſpare; but I wil recompenſe, even recompenſe upon their Heads; for the cries of mine Elect is come up into mine ears, and ſhall I have pity? No, For as I live ſaith the Lord, I will not ſpare: For ſmoke ſhall go forth of my Noſtrills, and de<g ref="char:EOLhyphen"/>vour you, even you ſhall be devoured without mercy; and thoſe that eſcape of the Famine, ſhall the Sword take; and thoſe that eſcape of the Sword, ſhall the Peſtilence take; and ſo ſhall you come to be deſtroyed from off the earth, that the Elect may be eaſed of that great burthen, and that heavie yoke that they have ſo long couched under.</p>
+            <p>Now I come to you little children, ſaying, <hi>Peace be here:</hi> I give you the <hi>Sincere Milk of the word,</hi> and you may grow up by it as tender Plants, and as young Wil<g ref="char:EOLhyphen"/>lows by the water ſide; You alſo ſhal receive the early and latter Rain; that in increaſing, you may increaſe; and in multiplying, you may multiply; and my bleſſing ſhall pour down upon you, and iſſue forth from me even as water iſſueth forth from a Fountain: Therefore O Righte<g ref="char:EOLhyphen"/>ous rejoyce with me, even as I alſo may rejoyce with you. Little children, I am glad for your ſakes that the Lord doth ſo much make manifeſt his love to me, to you; I be<g ref="char:EOLhyphen"/>ing a child in Chriſt, even as you are; alſo a child in age: But my Chriſt hath ſpoken, and ſaid, <hi>Fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r of Heaven and Earth, I thank thee that thou hideſt theſe things from the wiſe and prudent of this world, and haſt revealed thy ſelf to Babes and Sucklings:</hi> For in thoſe that are not
+<pb facs="tcp:153947:5"/>thought on, doth the glory break forth; for in the pooreſt and the meaneſt doth my God break forth in: but now I come even as my Beloved ſaith, to ſhew unto you by his holy word, the things that ſhall ſuddainly come to paſs, and even giving you warning to have a care, <hi>Mat,</hi> 24.4. <hi>And Jeſus anſwered and ſaid unto them, take heed that no man deceive you:</hi> Alſo in the fifth verſe he ſpeak<g ref="char:EOLhyphen"/>eth after this manner, and ſaith, <hi>Many ſhall come in my name, ſaying, I am Chriſt, and ſhall deceive many:</hi> And a<g ref="char:EOLhyphen"/>gain verſe 11, <hi>Many falſe Prophets ſhall ariſe, and de<g ref="char:EOLhyphen"/>ceive many:</hi> Moreover, <hi>Before the end come, ſhall the Go<g ref="char:EOLhyphen"/>ſpel be preached in all the world, for a witneſs unto all Na<g ref="char:EOLhyphen"/>tions, and then ſhall the end come: When you therefore ſhall ſee the abomination of deſolation</hi> (<hi>ſpoken of by</hi> Daniel <hi>the Prophet, ſtand in the holy place</hi>) <hi>who ſo readeth, let him underſtand:</hi> But then. <hi>If any man ſhall ſay unto you, lo, here is Chriſt, or there; believe it not: for there ſhall a<g ref="char:EOLhyphen"/>riſe falſe Chriſt, sand falſe Prophets; and ſhall ſhew great ſigns and wonders, inſomuch, that if it were; poſſible, they ſhould deceive the very Elect. Therefore if they ſhall ſay unto you, he is in the Deſart; go not forth. Behold he is in the ſecret Chamber; believe it not:</hi> For he will come ſhining from the Eaſt to the Weſt, throughout the world! remember what he ſaith in the 42 verſe of this Chapter, <hi>Watch therefore, for ye know not what hour your Lord doth come; for bleſſed is that ſervant, whom his Lord when he cometh ſhall find ſo doing:</hi> And again verſe 13. <hi>He that endureth to the end ſhall be ſaved.</hi> Therefore my Brethren ſtand ſtedfaſt, watch, and wait; for aſſuredly as the light ſhines, the day of the Lord is at hand. Alſo Brethren, I am the forerunner, and the voyce of him that thundreth forth his voyce; and I give you warning in this thing: Therefore watch: and for thoſe that endure unto the end, is a Crown of Righteouſneſs laid up with my God.</p>
+            <p>O my little Flock, once more (Iſay) come, come and view the palmes of my hande, for they are like unto Tables
+<pb facs="tcp:153947:5"/>of Stone ready prepared for you, O my little ones, that your names may be written in them: Alſo my word is gone forth, and it ſhall come to paſs; in the Tables of my hands ſhall your names be written, and it ſhall ſtand for ever, never going out ſaith the Lord: I will blow the Trumpet in <hi>Sion,</hi> I will utter my voyce in <hi>Jeruſalem,</hi> and you my little ones ſhall hear it, and ſhall rejoyce together; for my glory ſhall be ſeen in your innocency, and the Babe-like condition in you, ſhall greatly be extol'd; for thoſe that ſtrive to oppreſs you, ſhall know that you are mine, and I am yours.</p>
+            <p>
+               <hi>Sion</hi> ſpeaketh, My new-born-babes that reſt in hope, I come to ſuckle you upon my breaſts, I will nouriſh you with my Milk, and feed you with thoſe Hony drops that drop down like Orient Pearls, from the lips of my Belo<g ref="char:EOLhyphen"/>ved: Therefore my Babes rejoyce with me, for I am glad, ſorrow is fled away, and heavineſs is departed from me; becauſe I that have ſo long been barren, do now bear; and the Lord hath looked down upon me a widdow, that hath ſo long been in heavineſs and in bondage; but now I ſhall no more be a Widdow, and deſolate, and forſaken; but ſhall reſt in the glory, and rejoyce with my Well be<g ref="char:EOLhyphen"/>loved: Therefore Babes, come unto me all ye that are heavie laden, and my Beloved ſhall eaſe you; alſo I will nouriſh you, and I will ſtrengthen you, and in me ſhall ye be bleſſed. O Innocents, take Wiſdom to be your Mo<g ref="char:EOLhyphen"/>ther, and Underſtanding to be your Kinſwoman; that they may inſtruct you in their paths.</p>
+            <p>The glory doth open it ſelf; O come, I call, that you may hear my voice from the voice of ſtrangers, and know it: O come, come ye, all ye my little ones, that I may gather you together, and ſet you in one place, and in one fold: where I may be with you, and tend you; for you ſhall be no more under ſlothful ſervants and hirelings; for I have heard the groanings of you my little flock, there<g ref="char:EOLhyphen"/>fore I will eaſe you, and ye ſhall no more be under it.</p>
+            <pb facs="tcp:153947:6"/>
+            <p>A Propheſie from the Almighty unto the diſobedient and gain-ſaying people; ſaying, Son of man, write unto this people; O this people that lyeth in darkneſs, and in the ſhaddow of death; and ſay, The voice that cryed in heaven, ſaying, Wo, wo, wo to the inhabitants of the earth, ſhall even be your witneſs againſt you, and ſhall teſtifie unto the Lord concerning your uncleanneſs; but now, here is the love of God to you, O ye ſilly ones, for he ſendeth his Prophets to give you warning; alſo he ſendeth me as a Voice from that Voice, prepared to do his Will; and I come crying in the ſtreets, prepare ye the way; alſo my God ſendeth me unto you, even as he ſent <hi>Jonah</hi> to <hi>Ninive,</hi> ſaying, Repent ye of your evils, leſt ye be deſtroyed without mercy: Remember the Sodomites how they were deſtroyed, when they regarded not the word of the Lord, but followed their own evils, till the ſtorms came down and deſtroyed them: Therefore ye that ſit in darkneſs, repent while it is called to day, for you know not how ſoon the night cometh, where there is no repenting: Believe it, it is very nigh you, and even at your dores.</p>
+            <p>The word of the Lord came unto me the ſecond time, ſaying, Voice, write, and ſay, the Lord is a coming to ſhake terribly the earth: Alſo you deſpiſers, and Wonderers, and Divel, cry and howl for your calamities that is at hand, for my God hath ſhewn to me even utter deſtructi<g ref="char:EOLhyphen"/>on, ſuch as hath not been ſince the flood; and know aſſu<g ref="char:EOLhyphen"/>redly it will ſuddenly come; for through my God I have ſeen it; alſo it hath made my ſoul to yearn within me, and hath cauſed me to weep ſore for the calamities that are now nigh at hand; therefore ſtand, I come, I give you warning, I call, and my voice muſt be heard; for I come, being the voice of him that cryeth aloud, Prepare the way. Alſo in the gronings of my Spirit, I beheld an high and mighty mountain, and upon the top of it there ſtood <hi>Ra<g ref="char:EOLhyphen"/>boni,</hi> and two Angels with two Trumpets ſtanding and
+<pb facs="tcp:153947:6"/>ſounding, the one on the right hand, and the other on the left; and as they ſounded, there went a voice forth from the Trumpet, ſaying; Bleſſed is that Judge that is a coming to judge rightly; and holy and true is he that is now a coming to plead the innocents cauſe. Alſo I heard a very great melodious ſound, with much delightful mu<g ref="char:EOLhyphen"/>ſick; and I looked to behold from whence it was; and upon the ſide of this mountain there ſtood abundance of Harpers, harping with their Harps; and as they harped, there went a voice from the Harps, ſaying, Hallelujah, Hallelujah, Honour, and praiſe, and glory be given to our King, and to the Lamb that is now a coming to ſet open the priſon dores, that the captive may go free. Now Brethren, I come to give you warning of theſe things that are nigh, and of what the Lord hath ſhewn unto me; but if you take not warning, but ſtand as ſtubborn and diſobe<g ref="char:EOLhyphen"/>dient children, not regarding the word of the holy One, he will pour down his fury upon you like a mighty ſtream, and great will be your deſolation.</p>
+            <p>A great Revelation revealed from that holy place, to be laid open in the womb of the earth, that at the manifeſta<g ref="char:EOLhyphen"/>tion of the ſame, the Lord's word may be believed.</p>
+            <p>O hark, I hear Juſtice plead! O eys, thou ſeeſt Wiſdom teach her little ones, and Underſtanding dreſs her Virgins, and truth adorn her ſelf; Behold, take notice the Spouſe is a coming; four reſt on her, Juſtice, Wiſdom, Under<g ref="char:EOLhyphen"/>ſtanding and Truth; theſe are the four great witneſſes that ſhall go forth, even from the four winds of heaven; from the Eaſt, from the Eaſt, Wiſdom from the Weſt, Underſtanding from the North, and Truth from the South: This is that great Trumpet that ſhall go forth with the great ſound that the great Angels ſhall bear upon the earth, to gather the Elect together before that great day, in which the heighth that doth ruine in the higheſt, and the deep in the deepeſt, will come to make manifeſt his glory in the full view of all.</p>
+            <pb facs="tcp:153947:7" rendition="simple:additions"/>
+            <p>Now underſtand, Juſtice, Wiſdom, Underſtanding, and Truth, are four Spirits going into four prepared Veſſels, given into the hands of four great Angels, to do four man<g ref="char:EOLhyphen"/>ner of works on earth; and yet this but one work; which is the works work working in us.</p>
+            <p>RUMA EMULA, <hi>or the Out ſearcher of deep Myſteries, in ſtrength of Wiſ<g ref="char:EOLhyphen"/>dom.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
